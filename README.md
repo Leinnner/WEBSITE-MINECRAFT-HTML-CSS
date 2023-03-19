@@ -1,4 +1,6 @@
 # Sitio web de minecraft (En construcción)
+`Sitio inspirado en minecraft.com`
+
 Cosas que falta:
 - Terminar detalles
 - Mejorar el código, remplazar el existente por codigo limpio. 
