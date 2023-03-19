@@ -267,8 +267,8 @@
     
   }
   .img-mine{
-    background: url('/resources/home-mine.jpg');
-    background-repeat: no-repeat;
+    background: url('https://images3.alphacoders.com/118/1184187.jpg');
+    background-repeat: repeat;
   }
 
   .img-minecraft{
@@ -290,7 +290,7 @@
   }
 
   .next-mine-home{
-    background: url('/resources/bg-wool-dark.png');
+    background: url('https://www.minecraft.net/content/dam/minecraft/backgrounds/bg-wool-dark.png');
     background-repeat: repeat;
     padding: 70px;
     
@@ -333,7 +333,7 @@
 
 .title-mine{
   font-size: 3rem;
-  background-image: url("/images/texture-minecraft.jpg");
+  background-image: url("https://e0.pxfuel.com/wallpapers/379/421/desktop-wallpaper-minecraft-dirt-texture.jpg");
   -webkit-background-clip: text;
   -moz-background-clip: text;
   background-clip: text;
