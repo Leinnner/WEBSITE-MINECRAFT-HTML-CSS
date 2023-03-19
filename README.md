@@ -3,6 +3,8 @@ Cosas que falta:
 - Terminar detalles
 - Mejorar el código, remplazar el existente por codigo limpio. 
 - Agregar responsive (Hacer el sitio responsive para cualquier dispositivo).
+- Agregar nuevas funciones y diseños.
+- Entre otros más.
 
 ## Entra al link para observar la pagina
 `<link>` : https://leinnner.github.io/WEBSITE-MINECRAFT-HTML-CSS/
