@@ -1,6 +1,7 @@
 # Sitio web de minecraft (En construcción)
 `Sitio inspirado en minecraft.com`
 
+#### *Verlo desde una PC, website aún no listo para dispositivos móviles*
 Cosas que falta:
 - Terminar detalles
 - Mejorar el código, remplazar el existente por codigo limpio. 
